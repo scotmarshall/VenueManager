@@ -1,0 +1,15 @@
+C:\Users\dirt_farm\Documents\Projects\VenueManager\bin\Debug\net7.0\VenueManager.exe
+C:\Users\dirt_farm\Documents\Projects\VenueManager\bin\Debug\net7.0\VenueManager.deps.json
+C:\Users\dirt_farm\Documents\Projects\VenueManager\bin\Debug\net7.0\VenueManager.runtimeconfig.json
+C:\Users\dirt_farm\Documents\Projects\VenueManager\bin\Debug\net7.0\VenueManager.dll
+C:\Users\dirt_farm\Documents\Projects\VenueManager\bin\Debug\net7.0\VenueManager.pdb
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.csproj.AssemblyReference.cache
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.AssemblyInfoInputs.cache
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.AssemblyInfo.cs
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.csproj.CoreCompileInputs.cache
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.dll
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\refint\VenueManager.dll
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.pdb
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\VenueManager.genruntimeconfig.cache
+C:\Users\dirt_farm\Documents\Projects\VenueManager\obj\Debug\net7.0\ref\VenueManager.dll
